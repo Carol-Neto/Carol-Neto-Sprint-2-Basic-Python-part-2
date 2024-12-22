@@ -1,4 +1,4 @@
-# Carol-Neto-Sprint-2-Basic-Python-part-2
+# Sprint 2 - Basic Python part 2
 
 # Project Description
 
